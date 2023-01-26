@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/kelvin-portfolio/static/css/main.da14dd53.css",
+    "main.js": "/kelvin-portfolio/static/js/main.4e3f99af.js",
+    "static/media/propic3.JPG": "/kelvin-portfolio/static/media/propic3.ce8e24eed209f5c7215f.JPG",
+    "static/media/propic2.JPG": "/kelvin-portfolio/static/media/propic2.f799bc8a286c1129fd76.JPG",
+    "static/media/IMG_0695.jpg": "/kelvin-portfolio/static/media/IMG_0695.ab27ab99aee2edba4e04.jpg",
+    "static/media/giphy.gif": "/kelvin-portfolio/static/media/giphy.6bff444d95e3d9468485.gif",
+    "static/media/geauxlogo.png": "/kelvin-portfolio/static/media/geauxlogo.c904b5dfd8f56403fa4b.png",
+    "static/media/cloud.gif": "/kelvin-portfolio/static/media/cloud.7ca69d82215cfd7eba5f.gif",
+    "static/media/wyzant2.png": "/kelvin-portfolio/static/media/wyzant2.0b9b89f3d026ceb0f114.png",
+    "static/media/messagesent.gif": "/kelvin-portfolio/static/media/messagesent.bd91d4ae9cbaed71b5dd.gif",
+    "index.html": "/kelvin-portfolio/index.html",
+    "main.da14dd53.css.map": "/kelvin-portfolio/static/css/main.da14dd53.css.map",
+    "main.4e3f99af.js.map": "/kelvin-portfolio/static/js/main.4e3f99af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da14dd53.css",
+    "static/js/main.4e3f99af.js"
+  ]
+}
